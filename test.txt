@@ -1,0 +1,66 @@
+>>> what is the capitals of USA and France?
+Reasoning: The United States and France are two countries that are located on different continents.
+Answer: The United States is known for its capital city, Washington D.C., while France has its capital city, Paris.
+----------------------------------------
+>>> what is the highest mountain in the world
+Reasoning: The highest mountain on Earth is Mount Everest (also known as Mount Everest), which stands at 8,848 meters (29,altitude). It is located in the Himalayas, where it reaches an elevation of 8,848 meters.
+
+Answer: The highest mountain on Earth is Mount Everest.
+----------------------------------------
+>>> list all planets in solar system
+Reasoning: The solar system consists of our Sun, Earth, and various celestial bodies such as planets, stars, and other objects that orbit around the Sun.
+
+Answer: The list of planets in the solar system includes Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, and Earth.
+----------------------------------------
+>>> 2+2=?
+Reasoning: The original problem involves adding two numbers, which can be represented as addition. So, the new equation would be: 2 + 2 = 4.
+Answer: 4.
+----------------------------------------
+>>> who was the first peron to walk on the moon
+Reasoning: The first person who walked on the moon was Neil Armstrong, and he was an American astronaut.
+Answer: Neil Armstrong was the first man to step foot on the moon.
+----------------------------------------
+>>> when did second world war ended?
+Reasoning: The Second World War concluded on September 2, 1945.
+Answer: The Second World War ended on September 2, 1945.
+----------------------------------------
+>>> who is Sherlock Holms
+Reasoning: Sherlock Holm was a fictional character created by Sir Arthur Conan Doyle in his book "The Adventures of Sherlock Holmes". Sherlock Holmes is an English detective and the central figure of the Sherlock Holmes stories.
+
+Answer: Sherlock Holmes is an English detective who is best known for solving crimes such as the Sherlock Holmes case, which involves investigating mysterious deaths at a London hospital.
+----------------------------------------
+>>> function in python to sort array
+Reasoning: Python provides various functions for sorting, such as `sorted()` which is used to sort an array.
+
+Answer: sorted() function in Python.
+----------------------------------------
+>>> who invented the theory of relativity
+Reasoning: The theory of relativity was developed by Albert Einstein, and his work on the special theory of relativity (which includes the field equations) was published in 1905. The theory was later extended by Louis de Broglie in 1926 and is now known as the theory of quantum mechanics or quantum mechanics.
+Answer: Albert Einstein.
+----------------------------------------
+>>> translate "hello" to russian
+Reasoning: The phrase "hello" can be translated into Russian as "Добрый вдень" (Dobryy vdes). In Russian, the name "Dobryy vdes" remains unchanged.
+Answer: Добрый вдень.
+----------------------------------------
+>>> write a short story about a prince that defeated a dangerous dragon
+Title: The Battle of the Golden Fleece
+
+Genre: Fantasy/Adventure
+
+Plot:
+Once upon a time, there was a young prince who had always been passionate about adventure and exploration. He spent his days exploring the world, traveling across land and sea, and even visiting distant lands filled with magical creatures. His life was filled with excitement and curiosity, as he always wanted to discover new places and learn about the diverse cultures that lived around him.
+
+However, one day, an evil dragon emerged and posed a significant threat to the kingdom's safety. The brave prince knew that he needed to protect his people and their beautiful land from this menacing enemy. He had heard stories of brave heroes from other countries who had successfully defended their territories against these scary creatures.
+
+The prince decided to embark on a grand journey to confront the dangerous dragon and save his people and the land from impending doom. With the help of his loyal friends, he traveled through various landscapes and met many intriguing characters along the way. During his journey, he faced numerous challenges, but he never gave up hope.
+
+As they reached different corners of the kingdom, the prince began to notice the signs of danger. The dragon's presence seemed to grow more and (generation was forcefully stopped)
+----------------------------------------
+>>> peraphrase: "today we are celebrating a sixth birthday of my daughter"
+Reasoning: The phrase refers to a special day or event for someone's child that they celebrate on their sixth birthday.
+Answer: A sixth birthday celebration.
+----------------------------------------
+>>> list all even numbers from 1 to 10
+Reasoning: list the even numbers from 1 to 10. Even numbers are numbers that divide evenly into two groups, which means they're divisible by 2 without any remainder. So, we can create an empty list called "even_numbers" and add the numbers 1, 3, 5, 7, and 11. Then, we'll loop through these numbers and check if each number is even (i.e., it's divisible by 2) or odd (i.e., it doesn't). After looping through all numbers, we will return the list containing the even numbers.
+
+Answer: [2, 4, 6, 8, 10]
